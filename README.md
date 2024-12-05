@@ -3,8 +3,7 @@
 
 ---
 
-### 🌟 About Me
-
+<h2 align="center" > 🌟 About Me </h2>
 
 
 <a target="_blank" align="center">
@@ -25,8 +24,8 @@
   
 <br/>
 
-### 📊 My Statistics
----
+<h2 align="center" > 📊 My Statistics </h2>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -47,9 +46,8 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
----
-### 🛠️ Languages and Tools
+<br/>
+<h2 align="center" > 🛠️ Languages and Tools <h3/>
 
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -117,8 +115,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
 </p>
-
-  <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
+<br/>
+<br/>
+  <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/gayan-poornima" target="_blank">
