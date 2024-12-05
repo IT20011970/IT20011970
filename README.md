@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20011970&label=Profile%20views&color=0e75b6&style=flat" alt="it20011970" /> </p>
 
-- 🔭 I’m currently seeking **Fullstack Software Engineering job oppotunity**
+- 🔭 I’m currently seeking **Fullstack Software Engineering job opportunity**
 
 - 👨‍💻 All of my projects are available at [--](--)
 
 - 📝 I regularly write articles on [https://medium.com/@gayanpoornima](https://medium.com/@gayanpoornima)
 
-- 🌱 I’m currently working as **Associate Software Engineer at Pristine Solutions**
+- 🌱 I’m currently working as **Associate-Software Engineer at Pristine Solutions**
 
 - 📫 How to reach me **gayanpoornima@gmail.com**
 
