@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayan Poornima Bamunusinghe</h1>
 <h3 align="center">I'm a Software Engineer, over 2 years experienced</h3>
 
-
+---
 
 - 🔭 I’m currently seeking **Fullstack Software Engineering job opportunity**
 
