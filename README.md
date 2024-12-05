@@ -11,8 +11,10 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently seeking **Fullstack Software Engineering job opportunities**  
-- 🌱 Working as an **Associate Software Engineer at Pristine Solutions**  
+- 🔭 I’m currently seeking **Fullstack Software Engineering job opportunities**
+  
+- 🌱 Working as an **Associate Software Engineer at Pristine Solutions**
+
 - 📝 I regularly write articles on [Medium](https://medium.com/@gayanpoornima)  
 - 📫 Reach me at **gayanpoornima@gmail.com**  
 - 📄 Check out my [Resume](https://github.com/IT20011970/Resume/blob/main/GayanPoornimaBamunusingeCV.pdf)  
