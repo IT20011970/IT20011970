@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineer, over 2 years experienced</h3>
 
 
-- 🔭 I’m currently seeking **Fullstack Software Engineering job oppertunity**
+- 🔭 I’m currently seeking **Fullstack Software Engineering job opportunity**
 
 - 📝 I regularly write articles on [https://medium.com/@gayanpoornima](https://medium.com/@gayanpoornima)
 
