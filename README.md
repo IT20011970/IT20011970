@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayan Poornima Bamunusinghe</h1>
 <h3 align="center">I'm a Software Engineer, over 2 years experienced</h3>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 
 - 🔭 I’m currently seeking **Fullstack Software Engineering job opportunity**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Music || Gaming || Reading**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/gayan-poornima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayan-poornima" height="30" width="40" /></a>
 <a href="https://medium.com/@gayanpoornima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gayanpoornima" height="30" width="40" /></a>
