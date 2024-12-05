@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://github.com/IT20011970/Resume/blob/main/GayanPoornimaBamunusingeCV.pdf](https://github.com/IT20011970/Resume/blob/main/GayanPoornimaBamunusingeCV.pdf)
 
-- ⚡ Fun fact **Music|| Gaming || Reading**
+- ⚡ Fun fact **Music || Gaming || Reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
