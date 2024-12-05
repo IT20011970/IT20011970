@@ -62,7 +62,7 @@
 </table>
 <!--- stats (end) -->
 
-
+---
 ### 🛠️ Languages and Tools
 
 <p align="center">
