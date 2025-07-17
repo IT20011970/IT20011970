@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayan Poornima Bamunusinghe</h1>
-<h3 align="center">A passionate Software Engineer with over 2 years of experience</h3>
+<h3 align="center">A passionate Software Engineer with over 3 years of experience</h3>
 
 ---
 
