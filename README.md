@@ -18,7 +18,7 @@
 
 - 📫 Reach me at **gayanpoornima@gmail.com**
   
-- 📄 Check out my [Resume](https://github.com/IT20011970/Resume/blob/main/GayanPoornimaBamunusingeCV.pdf)
+- 📄 Check out my [Resume](https://github.com/IT20011970/Resume/blob/main/GayanPoornimaBamunusinge's%20%20CV.pdf)
   
 - ⚡ Fun fact: I love **Music, Gaming, and Reading**
   
