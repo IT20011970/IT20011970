@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently seeking **Fullstack Software Engineering job opportunities**
   
-- 🌱 Working as an **Software Engineer at John keels IT**
+- 🌱 Working as an **Software Engineer at AMW**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@gayanpoornima)
 
